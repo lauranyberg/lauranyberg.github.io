@@ -1,6 +1,7 @@
 * {
 	background-color: #3A3936;
 	color: #FDFDFC;
+	font: Arial;
 }
 
 table {
@@ -49,5 +50,6 @@ h1 {
 .footer {
 	text-align: center;
 	margin: 100px;
+	display: inline-block;
 }
 	
